@@ -2,12 +2,12 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f8f9fa;
+  background-color: #f8faf9;
   color: #333;
 }
 
 header, footer {
-  background-color: #222;
+  background-color: #e6d114;
   color: white;
   text-align: center;
   padding: 1rem;
@@ -52,3 +52,4 @@ ul {
     padding: 10px;
   }
 }
+
